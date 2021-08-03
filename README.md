@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-https://github-readme-stats.vercel.app/api?username=ONrime
-(Most Used Language) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ONrime)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ONrime&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ONrime)
