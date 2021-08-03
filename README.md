@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 :bulb: ME :bulb:
-<a href="https://www.youtube.com/channel/UCDFAcRSk9pBDhdRbEzMa1fg" target="_blank"><img src="https://img.shields.io/badge/Youtube-#FF0000?style=flat-square&logo=ONrime&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCDFAcRSk9pBDhdRbEzMa1fg" target="_blank"><img src="https://img.shields.io/badge/Youtube-#FF0000?style=flat-square&logo=square&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ONrime&show_icons=true&theme=highcontrast)
 
