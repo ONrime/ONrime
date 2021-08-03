@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 :bulb: ME :bulb:
 
 <a href="https://www.youtube.com/channel/UCDFAcRSk9pBDhdRbEzMa1fg" target="_blank"><img src="https://img.shields.io/badge/YouTube-c92052?style=flat-square&logo=YouTube&logoColor=white"/></a>
-<a href="mailto:ekwnddl20@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-c92052?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href=mailto:ekwnddl20@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-c92052?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ONrime&show_icons=true&theme=highcontrast)
