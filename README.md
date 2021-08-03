@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-(Github Stat) [![kmsbio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ONrime)] 
+https://github-readme-stats.vercel.app/api?username=ONrime
 (Most Used Language) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ONrime)
